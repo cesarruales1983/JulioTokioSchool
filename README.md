@@ -3,3 +3,6 @@
 ###Aqui podras encontrar todo el codigo que he ido aprendiendo y proyectos en los que estoy trabajando.
 ![]![image](https://user-images.githubusercontent.com/99244863/152949872-30883373-7393-4ada-b204-af82960f8a61.png)
 
+Mis repositorios
+
+(https://github.com/cesarruales1983/MiPrimerRepositorio/blob/main/hello.py) Este es mi primer repositorio.
