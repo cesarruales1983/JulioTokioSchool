@@ -1,5 +1,5 @@
 #Hola todos Bienvenidos a mi perfil de Github
 
 ###Aqui podras encontrar todo el codigo que he ido aprendiendo y proyectos en los que estoy trabajando.
+![]![image](https://user-images.githubusercontent.com/99244863/152949872-30883373-7393-4ada-b204-af82960f8a61.png)
 
-![](htpps://media.licdn.com/dm/image/C4E1BAQHvxbLvipgkHw/compani-background_10000/0?e=2159024400&v=beta&t=4N4YfyXG-uTZYZckohwr2hnqTy4dZQbldG9jUhziPlc)
